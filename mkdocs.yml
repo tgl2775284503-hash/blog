@@ -1,0 +1,14 @@
+site_name: 我的全新博客
+site_url: https://你的用户名.github.io/blog/
+
+theme:
+  name: material
+  language: zh
+
+# 开启官方内置博客插件
+plugins:
+  - blog
+
+nav:
+  - 首页: index.md
+  - 专栏博客: blog/index.md  # 插件会自动把 posts 里的文章抓取到这个页面
