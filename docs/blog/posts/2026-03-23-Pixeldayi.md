@@ -1,7 +1,7 @@
 ---
 date: 2026-03-25
 categories:
-  - AI
+  - 视频教程
 tags:
   - 工具
   - AI
