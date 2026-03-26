@@ -1,15 +1,38 @@
-# 🌟 推荐专区
-
-欢迎来到小V的推荐专区。点击下方卡片查看详细的平台注册及使用教程。
-
-<div class="grid cards" markdown>
-
--   __作者太懒，待更新__
-    ---
-    最适合新手的跟单平台。
-    [👉 查看完整教程]()
-
-
-</div>
+# ✨ 博主推荐
 
 ---
+
+## 🔗 海外平台注册 & 工具合集
+
+### 🏢 平台官方入口
+* 💰 **币安 (Binance)** 官方注册入口（推荐）：[点击注册](https://www.bsmkweb.cc/register?ref=XIAOV001)
+* 🔜 **Bybit** 官方注册入口（推荐）：[点击注册](https://partner.bybit.com/b/XIAOV001)
+* 👉 **Bitget** 官方注册入口（推荐）：[点击注册](https://partner.hdmune.cn/bg/XIAOV001)
+
+### 🧰 实用工具与服务
+* 🤺 **自用机场推荐**（白月光）：[点击访问](https://www.sibker.com/register?invite_code=6AbO5kCw)
+* 🍠 **住宅 IP**（每月不到 6 元）：[Webshare 注册](https://www.webshare.io/?referral_code=apnsjeua21if)
+* 🛒 **节约时间推荐**（账号星球）：[点击直达](https://accboy7kjxv.acceboy.com/)
+
+---
+
+## 📚 新手注册教程 & 常见问题
+
+* ▶️ **Bybit 注册教程 & 常见问题**：[📺 观看视频](https://youtu.be/HVpqQJ1KnH4)
+* ▶️ **Bitget 注册教程 & 常见问题**：[📺 观看视频](https://youtu.be/JO-WBsOyjOw)
+* ▶️ **Xesim 介绍、购买、使用教程**：[📺 观看视频](https://www.youtube.com/watch?v=E4Qqya_1xf0&t=171s) *(专享折扣码：`XIAOV001`)*
+
+*(内容持续更新中...)*
+
+---
+
+## 📢 社群与交流
+
+* 📢 **Telegram 频道**（信息更新）：[@xiaovjiaoliu](https://t.me/xiaovjiaoliu)
+* 💬 **Telegram 交流群**（问题交流）：[@xiaovchat](https://t.me/xiaovchat)
+* 🐦 **X (推特)**：[@TGL1997800](https://x.com/TGL1997800)
+* 🤝 **合作事宜**：请私聊洽谈！
+
+---
+
+> ⚠️ **免责声明**：所有内容基于个人使用经验分享，不构成任何投资或商业建议。
