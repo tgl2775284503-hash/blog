@@ -26,13 +26,7 @@ hide:
     <a href="recommend/" class="md-button" style="border-radius: 20px; width: 80%;">查看工具</a>
   </div>
 
-  <div class="md-typeset" style="padding: 24px; border: 2px solid #ef5552; border-radius: 12px; background: rgba(239,85,82,0.03); text-align: center; backdrop-filter: blur(10px); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" >
-    <div style="font-size: 2.5rem; margin-bottom: 15px;">🎁</div>
-    <h3 style="margin-top: 0; color: #ef5552;">限时福利</h3>
-    <p style="font-size: 0.85rem; color: var(--md-typeset-color--muted); min-height: 40px;">近期最火的跨境活动（如 Google One/Gemini Pro）置顶推荐。</p>
-    <a href="blog/2026/03/17-gemini-pro/" class="md-button" style="border-radius: 20px; width: 80%; background-color: #ef5552; color: #fff; border: none;">立即领取</a>
-  </div>
-
+  
   <div class="md-typeset" style="padding: 24px; border: 1px solid rgba(0,0,0,0.1); border-radius: 12px; background: rgba(255,255,255,0.05); text-align: center; backdrop-filter: blur(10px); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)';" onmouseout="this.style.transform='translateY(0)';" >
     <div style="font-size: 2.5rem; margin-bottom: 15px;">🌐</div>
     <h3 style="margin-top: 0;">关注社区</h3>

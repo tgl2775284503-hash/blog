@@ -2,6 +2,7 @@
 date: 2026-03-17
 categories:
   - 视频教程
+slug: pixel-gemini
 tags:
   - 福利
   - AI
