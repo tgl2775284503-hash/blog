@@ -209,6 +209,12 @@ npx -y @wecom/wecom-openclaw-cli install
 ```powershell
 openclaw pairing approve wecom <配对码>
 ```
+### 3.1微信配置
+
+* 微信插件安装命令
+```powershell
+npx -y @tencent-weixin/openclaw-weixin-cli@latest install
+```
 
 ### 4.Lark连接
 - 登录开发者后台——创建企业应用——添加机器人——开启权限——创建事件（打开长连接功能）——Openclaw中配置机器人ID+密钥
