@@ -61,8 +61,7 @@ tags:
     - **积分购买**：[car.kennygmail.com](https://car.kennygmail.com?invite=24735)
 
 !!! quote "其他相关推荐"
-    - **成品号**：[Gemini 3 Pro 1年成品号](https://car.kennygmail.com?invite=24735)
-    - **网络方案**：[自用机场推荐 (llgjc)](https://llgjc.org/#/register?code=Bj2hJT7i)
+    - **网络方案**：[自用机场推荐 (白月光)](https://www.sibker.com/register?invite_code=6AbO5kCw)
     - **住宅IP**：[静态住宅 IP 推荐 (webshare)](https://www.webshare.io/?referral_code=apnsjeua21if)
 
 ---
