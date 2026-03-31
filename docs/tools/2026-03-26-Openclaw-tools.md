@@ -369,7 +369,15 @@ if __name__ == "__main__":
     main()
 ```
 
-## 六、多Agent创建
+## 六、Skills（技能）安装
+
+* 官方Skills（技能）网站：[https://clawhub.ai/](https://clawhub.ai/)
+* Self-Improving + Proactive Agent（自我进化技能）：https://clawhub.ai/ivangdavila/self-improving
+* Tavily AI Search（联网搜索技能）：https://clawhub.ai/bert-builder/tavily
+* Multi Search Engine（多搜索引擎技能）：https://clawhub.ai/gpyAngyoujun/multi-search-engine
+* 浏览器控制扩展程序，Windows、Mac通用：Chrome浏览器拓展商店搜索（OpenClaw Browser Relay for Windows）
+
+## 七、多Agent创建
 
 - 创建Agent命令
 ```powershell
@@ -383,6 +391,11 @@ openclaw agents add <agent名称>
 启动命令：
 ```powershell
 openclaw gateway
+```
+
+Ollama启动命令：
+```powershell
+ollama launch openclaw --config
 ```
 
 配置命令：
