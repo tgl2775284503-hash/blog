@@ -180,7 +180,7 @@ openclaw onboard
 ollama launch openclaw --config
 ```
 
-## 五、Channels连接
+## 六、Channels连接
 
 ### 1.Telegram连接
 - 前提：打开魔法
@@ -225,7 +225,7 @@ openclaw pairing approve wecom <配对码>
 npx -y @tencent-weixin/openclaw-weixin-cli@latest install
 ```
 
-## 六、Skills（技能）安装
+## 七、Skills（技能）安装
 
 * 官方Skills（技能）网站：[https://clawhub.ai/](https://clawhub.ai/)
 * Self-Improving + Proactive Agent（自我进化技能）：[点击跳转](https://clawhub.ai/ivangdavila/self-improving)
@@ -233,7 +233,7 @@ npx -y @tencent-weixin/openclaw-weixin-cli@latest install
 * Multi Search Engine（多搜索引擎技能）：[点击跳转](https://clawhub.ai/gpyAngyoujun/multi-search-engine)
 * 浏览器控制扩展程序，Windows、Mac通用：Chrome浏览器拓展商店搜索（OpenClaw Browser Relay for Windows）
 
-## 七、多Agent创建
+## 八、多Agent创建
 
 - 创建Agent命令
 ```powershell
@@ -242,7 +242,7 @@ openclaw agents add <agent名称>
 - 然后让AI辅助，确定各Agent的角色定位、以及协作运行规则
 - 再让Openclaw主模型，自行设置
 
-## 常用命令
+## 九、常用命令
 
 启动命令：
 ```powershell
@@ -309,14 +309,6 @@ npm config set registry https://registry.npmjs.org/
 sudo npm install -g openclaw@latest --registry=https://registry.npmmirror.com --unsafe-perm=true --allow-root --strict-ssl=false
 ```
 
-#### 待测试命令
-
-配置多模型 命令
-```powershell
-# 配置多模型 
-openclaw config set models.default "openai/gpt-4" 
-openclaw config set models.fallback "anthropic/claude-3-haiku"
-```
 
 命令
 ```powershell
