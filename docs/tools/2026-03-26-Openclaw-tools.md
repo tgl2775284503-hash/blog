@@ -366,6 +366,12 @@ sudo npm install -g openclaw@latest --registry=https://registry.npmmirror.com --
 
 ### （二）购买、使用相关文档
 
+- 1.Claud中转站（XueDingToken网站地址）：[点击跳转](https://shop.xuedingtoken.com/?dist=ZZE5PHPG)
+
+- 2.如何在 openclaw(小龙虾) 配置 xuedingtoken API 指南:[点击跳转](https://ocnoacy9az5w.feishu.cn/wiki/Gr6kwcH7DirNyVkyoogcPcwqnqf)
+
+- 3.Token中转项目｜完整流程（新手必读）:[点击跳转](https://lcnwuorvt317.feishu.cn/wiki/YJK7wXRXNimZ8Ck6xrlcPUl3njf)
+
 - 闲鱼交付文档：[点击跳转](https://my.feishu.cn/wiki/ZmM6wSSfAiRbWZkR2WGctTO6nXb)
 
 - XueDingtoken｜小白AI无门槛宝典:[点击跳转](https://ocnoacy9az5w.feishu.cn/wiki/YL29wbEzpiAW6hk1DFEctDIenfd)
