@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -sL \"https://cdn.jsdelivr.net/npm/marked@9/marked.min.js\" -o marked.min.js)",
+      "Bash(curl -sL \"https://cdn.jsdelivr.net/npm/highlight.js@11/lib/core.min.js\" -o hljs.min.js)",
+      "Bash(curl -sL \"https://cdn.jsdelivr.net/npm/highlight.js@11/styles/github.min.css\" -o hljs-light.min.css)",
+      "Bash(curl -sL \"https://cdn.jsdelivr.net/npm/highlight.js@11/styles/github-dark.min.css\" -o hljs-dark.min.css)"
+    ]
+  }
+}
