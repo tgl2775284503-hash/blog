@@ -41,7 +41,7 @@ tags:
 
 ## 🔶 第三步：注册币安 (Binance)
 
-- **🔗 官方注册入口**（推荐码：`XIAOV001`）：[点击跳转](https://www.bsmkweb.cc/register?ref=XIAOV001)
+- **🔗 官方注册入口**（推荐码：`XIAOV002`）：[点击跳转](https://www.bsmkweb.cc/join?ref=XIAOV002)
 - **⚠️ 注意事项**：同样需要开启网络代理。节点建议选择 **台湾、澳大利亚、日本、韩国**。如果打不开网站或提示受限地区，请及时更换节点。
 
 ---

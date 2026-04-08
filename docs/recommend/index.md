@@ -5,7 +5,7 @@
 ## 🔗 海外平台注册 & 工具合集
 
 ### 🏢 平台官方入口
-* 💰 **币安 (Binance)** 官方注册入口（推荐）：[点击注册](https://www.bsmkweb.cc/register?ref=XIAOV001)
+* 💰 **币安 (Binance)** 官方注册入口（推荐）：[点击注册](https://www.bsmkweb.cc/join?ref=XIAOV002)
 * 🔜 **Bybit** 官方注册入口（推荐）：[点击注册](https://partner.bybit.com/b/XIAOV001)
 * 👉 **Bitget** 官方注册入口（推荐）：[点击注册](https://partner.hdmune.cn/bg/XIAOV001)
 
