@@ -8,7 +8,8 @@ tags:
   - 交易所
 ---
 
-# 🎁 [主标题]
+# 🎁 Bybit & Binance 注册与出入金全攻略
+
 
 ![封面图](../../assets/images/muban.png){ width="300" align=left style="border-radius: 8px; margin-right: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin-bottom: 10px;" }
 
@@ -25,9 +26,6 @@ tags:
 <!-- more -->
 
 ---
-
-
-# Bybit & Binance 注册与出入金全攻略
 
 ## 🌐 必备前提：网络环境 (魔法)
 
