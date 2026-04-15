@@ -22,10 +22,18 @@ tags:
 
 <br clear="left">
 <!-- more -->
+
 ---
 ## 视频相关工具
+- 自用机场：有需要的可以[点击获取](https://www.sibker.com/register?invite_code=6AbO5kCw)
+- Telegram账号（目前+86手机号很难收到验证码，并且处于隐私考虑，建议购买成品号）：[立即购买](https://accboy7kjxv.acceboy.com/)
+- Bybit虚拟U卡申请教程：[点击观看](https://www.youtube.com/watch?v=BEubNfTBRtY)
+- Bitget Wallet虚拟U卡申请教程（现在需要护照）：[点击观看](https://www.youtube.com/watch?v=GeLnPOWbGJY)
 - 小V交流群：[点击跳转](https://t.me/xiaovchat)
 - Telegram汉化连接：[点击跳转](https://t.me/jisou?start=a_8225391452)
+
+## 购买账号
+- 1.注册并登录账号星球（不要忘记领取5元优惠券）：[点击跳转](https://accboy7kjxv.acceboy.com/)
 
 ## 🎯 活动速览
 
