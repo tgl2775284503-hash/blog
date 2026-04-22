@@ -56,20 +56,20 @@ ssh root@<您的服务器IP地址> -p 22
 
 请根据您的技术基础，任选**其中一种**脚本在服务器运行：
 
-### 🤷‍♂️ 方案一：3x-ui 可视化面板 (🌟 强烈推荐新手)
-* **特点：** 自带 Web 图形界面。
-* **优势：** 像设置路由器一样简单，后期管理、修改链式节点极方便。
-* **部署命令：**
-```bash
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
-```
-
-### 🤺 方案二：Sing-box 纯内核 (💻 适合极客玩家)
+### 🤺 方案一：Sing-box 纯内核 (💻 一键配置各代理软件节点)
 * **特点：** 无网页后台，纯代码驱动。
 * **优势：** 资源占用极低，适合低配服务器或追求极致纯净的硬核玩家。
 * **部署命令：**
 ```bash
 bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-box.sh)
+```
+
+### 🤷‍♂️ 方案二：3x-ui 可视化面板 (🌟手动添加节点、更加灵活)
+* **特点：** 自带 Web 图形界面。
+* **优势：** 像设置路由器一样简单，后期管理、修改链式节点极方便。
+* **部署命令：**
+```bash
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 ```
 
 ---
