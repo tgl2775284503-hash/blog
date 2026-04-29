@@ -25,68 +25,67 @@ tags:
 <!-- more -->
 ---
 
-## 在开始之前，请准备好以下工具和平台：
+## 💰 核心资源与工具导航
 
-### 💰服务器（VPS）及相关推荐：
-* **🌍 性价比-云服务器 (Vmiss)：** [点击获取您的中转服务器](https://app.vmiss.com/aff.php?aff=3992)
-* **☁️ 均衡款-云服务器 (Jtti)：** [点击获取您的中转服务器（2.5折优惠码：kjxv2026）](https://www.jtti.cc?k=T7KBH7)
-* **⚡️ 高质量（天花板）-海外老牌主机商（Banwagong）** [点击查看详情](https://tgl2775284503-hash.github.io/blog/tools/2026-04-25-VPS-banwagong/)
-
----
-
-* **🏠 住宅代理 (Talor)：** [点击注册获取高质量动态/静态 IP](https://dashboard.talordata.com/reg?inviter_code=xiaov001)
-* **🍠住宅代理（Webshare）**：[点击获取-每月不到 6 元](https://www.webshare.io/?referral_code=apnsjeua21if)
-* **🤺自用机场推荐**（白月光）：**[点击访问](https://www.sibker.com/register?invite_code=6AbO5kCw)
----
-
-* **⚡ 测速工具 (Speedtest)：** [点击前往测速](https://www.speedtest.net/zh-Hans)
-* **🔍 IP 纯净度检测 (Ping0)：** [点击查询节点 IP 信息](https://ping0.cc/)
-* **🔨代理软件（V2rayN）:**[电脑端下载地址](https://github.com/2dust/v2rayN)
-* **🔨代理软件（V2rayNG）:**[安卓手机下载地址](https://github.com/2dust/v2rayNG)
-* **👉加入小V交流群➡️抽奖：**[https://t.me/xiaovchat](https://t.me/xiaovchat)
+### 🌍 云服务器（VPS）推荐
+* **性价比-云服务器 (Vmiss)：** [点击获取您的中转服务器](https://app.vmiss.com/aff.php?aff=3992)
+* **均衡款-云服务器 (Jtti)：** [点击获取您的中转服务器（2.5折优惠码：kjxv2026）](https://www.jtti.cc?k=T7KBH7)
+* **高质量（天花板）-海外老牌主机商（Banwagong）** [点击查看详情](https://tgl2775284503-hash.github.io/blog/tools/2026-04-25-VPS-banwagong/)
 
 ---
 
-## 亚马逊AWS云服务免费试用6个月教程：
+### 🏠 住宅代理与节点资源
+* **住宅代理 (Talor)：** [点击注册获取高质量动态/静态 IP](https://dashboard.talordata.com/reg?inviter_code=xiaov001)
+* **住宅代理（Webshare）**：[点击获取-每月不到 6 元](https://www.webshare.io/?referral_code=apnsjeua21if)
+* **自用机场推荐（白月光）:**[点击访问](https://www.sibker.com/register?invite_code=6AbO5kCw)
 
-### 🎁 第一步注册新账号
-* Amazon注册地址：[点击跳转](https://aws.amazon.com/cn/free/)
 ---
 
-### 🛠️ 第二步：连接云服务器
-#### 普通服务器连接方式：
-打开本地电脑的命令行工具（推荐使用 Windows PowerShell 或 macOS Terminal），输入以下命令：
+### 🔨 实用工具与交流群
+* **测速工具 (Speedtest)：** [点击前往测速](https://www.speedtest.net/zh-Hans)
+* **IP 纯净度检测 (Ping0)：** [点击查询节点 IP 信息](https://ping0.cc/)
+* **代理软件（V2rayN）:**[电脑端下载地址](https://github.com/2dust/v2rayN)
+* **代理软件（V2rayNG）:**[安卓手机下载地址](https://github.com/2dust/v2rayNG)
+* **加入小V交流群➡️抽奖：**[https://t.me/xiaovchat](https://t.me/xiaovchat)
+* **电脑端连接服务器软件Xshell：**[点击下跳转](https://www.xshell.com/zh/free-for-home-school/)
+* **手机端连接服务器软件名称**：Termius（应用商店搜索下载）
 
-```powershell
+---
+
+## 🏅 新手小白建节点实战教程 (附 AWS 6 个月免费指南)
+
+### ☁️ 第一步：获取云服务器
+* **Amazon AWS 免费注册地址：** [点击跳转官网](https://aws.amazon.com/cn/free/)
+* *注：新用户可享每月 750 小时 EC2 免费时长，持续 6 个月。*
+
+### 🖥️ 第二步：连接云服务器
+打开本地电脑的命令行工具（推荐使用 Windows 的 `PowerShell` 或 macOS 的 `Terminal`），根据你的服务器类型选择下方命令执行：
+
+**▶ 普通服务器连接方式**
+```bash
 ssh root@<您的服务器IP地址> -p 22
 ```
-
-> **💡 操作提示：**
-> 
-> 1. 请将 `<您的服务器IP地址>` 替换为实际 IP。
-> 2. 首次连接需输入 `yes` 确认指纹，随后**粘贴/盲打**输入 Root 密码即可登录。
+> **💡 操作提示：** 请将 `<您的服务器IP地址>` 替换为实际 IP。首次连接需输入 `yes` 确认指纹，随后**粘贴或盲打**输入 Root 密码并回车即可登录。
 
 ---
 
-#### 亚马逊AWS云服务器连接方式：
-打开本地电脑的命令行工具（推荐使用 Windows PowerShell 或 macOS Terminal），输入以下命令：
-
-```powershell
-# 替换一下私钥本地路径、替换最后的IP地址。
-ssh -i "C:\Users\Administrator\Downloads\my-us-o.pem" ubuntu@44.248.17.190
+**▶ 亚马逊 AWS 服务器连接方式**
+```bash
+# 请将私钥路径替换为你电脑中的实际路径，并将末尾的 IP 替换为你服务器的公网 IP
+ssh -i "C:\Users\Administrator\Downloads\my-us-o.pem" ubuntu@<您的AWS-IP地址>
 ```
-
-获取root权限命令：
-```powershell
+登录成功后，务必输入下方命令获取最高管理员权限：
+```bash
 sudo -i
 ```
 ---
 
-### ⚙️ 第三步：核心部署方案
+### 💁 第三步：核心部署方案
 
 请根据您的技术基础，任选**其中一种**脚本在服务器运行：
 
-#### 🤺 方案一：Sing-box 纯内核 (💻 一键配置各代理软件节点)
+🤺 方案一：Sing-box 纯内核 (💻 一键配置各代理软件节点)
+
 * **特点：** 无网页后台，纯代码驱动。
 * **优势：** 资源占用极低，适合低配服务器或追求极致纯净的硬核玩家。
 * **部署命令：**
@@ -94,7 +93,8 @@ sudo -i
 bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-box.sh)
 ```
 
-#### 🤷‍♂️ 方案二：3x-ui 可视化面板 (🌟手动添加节点、更加灵活)
+🤷‍♂️ 方案二：3x-ui 可视化面板 (🌟手动添加节点、更加灵活)
+
 * **特点：** 自带 Web 图形界面。
 * **优势：** 像设置路由器一样简单，后期管理、修改链式节点极方便。
 * **部署命令：**
@@ -104,7 +104,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 ---
 
-### 第四步：网络拥堵优化
+### 🌐 第四步：网络拥堵优化 (BBR 加速)
 开启BBR功能，依次执行以下命令：
 ```powershell
 echo "net.core.default_qdisc=fq" >> /etc/sysctl.conf
@@ -122,14 +122,13 @@ sysctl -p
 
 ## 🔧 常见排错 (FAQ)
 
-**🚨 报错现象：** 云服务器重装系统后，SSH 连接提示 `WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!`
+**🚨 报错现象：** SSH 连接服务器时，满屏红字提示 `WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!`
 
-**🔍 报错原因：** 重装系统导致服务器的安全指纹更新了，属于正常拦截。
+**🔍 报错原因：** 重装系统或更换 IP 导致服务器的安全指纹更新了，本地电脑触发了正常的安全拦截。
 
-**✅ 解决办法：** 在本地 PowerShell 运行下方命令（请替换为报错的 IP）清除旧记录，即可重新连接：
-
-```powershell
-ssh-keygen -R 45.194.20.121
+**✅ 解决办法：** 在本地 PowerShell 运行下方命令清除旧记录（请将结尾的 IP 替换为你报错的那个 IP），清理后即可重新连接：
+```bash
+ssh-keygen -R <报错的IP地址>
 ```
 
 ---
